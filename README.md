@@ -6,7 +6,7 @@ Current lead frontend developer for the Industrial AI team at Foxconn in Wiscons
 
 ## My Journey
 ![Rushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtrend96&show_icons=true&theme=merko&include_all_commits=true&count_private=true)<br />
-![Rushi's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rtend96&theme=merko)
+![Rushi's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rtrend96&theme=merko)
 ## Languages and Tools
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
