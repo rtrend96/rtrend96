@@ -5,7 +5,7 @@
 Current lead frontend developer for the Industrial AI team at Foxconn in Wisconsin. Responsible for app creation and management of 3 team members. My other duties include creation of a verbose, yet easy to understand user interface that deals with large amounts of user/product data, E2E testing, code reviews, mentoring and app design.  
 
 ## My Journey
-![Rushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtrend96&show_icons=true&theme=merko&include_all_commits=true&count_private=true)<br />
+
 ![Rushi's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rtrend96&theme=merko)
 ## Languages and Tools
 
