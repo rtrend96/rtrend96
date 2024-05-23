@@ -169,7 +169,7 @@
 
       <div class="container">
   <div class="header-container">
-    <img src="bg.jpeg" alt="" class="header-image" />
+    <img src="./bg.jpeg" alt="" class="header-image" />
     <div class="header">
       <h1 class="main-heading">Rushikesh Nage</h1>
       <span class="tag">Developer</span>
@@ -191,7 +191,7 @@
   <div class="overlay-header"></div>
 
   <div class="body">
-    <img src="profile.jpeg" class="body-image" />
+    <img src="./profile.jpeg" class="body-image" />
     <div class="u-clearfix"></div>
     <div class="body-info">
       <p>
