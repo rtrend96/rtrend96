@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## Current work
-
+<iframe src="https://codepen.io/rtrend96/pen/jOorLWE"></iframe>
 Current lead frontend developer for the Industrial AI team at Foxconn in Wisconsin. Responsible for app creation and management of 3 team members. My other duties include creation of a verbose, yet easy to understand user interface that deals with large amounts of user/product data, E2E testing, code reviews, mentoring and app design. 
 
 ## My Journey
