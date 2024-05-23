@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div style="width: 100%;">
-  <img src="profile.svg" style="width: 100%;" alt="Click to see the source">
+  <img src="profile.svg" style="height: 100%;" alt="Click to see the source">
 </div>
 
 ## Current work
