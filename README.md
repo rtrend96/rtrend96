@@ -4,6 +4,42 @@
 
 Current lead frontend developer for the Industrial AI team at Foxconn in Wisconsin. Responsible for app creation and management of 3 team members. My other duties include creation of a verbose, yet easy to understand user interface that deals with large amounts of user/product data, E2E testing, code reviews, mentoring and app design.  
 
+<code>
+  <div class="container">
+  <div class="header-container">
+    <img src="https://media.licdn.com/dms/image/C5116AQFNf1PmqGHVPg/profile-displaybackgroundimage-shrink_350_1400/0/1584979299898?e=1721865600&v=beta&t=mVQxXaGg4KXfl3fGubmX6-zLdcFOvG_VDQSm6siiYCU" alt="" class="header-image" />
+    <div class="header">
+      <h1 class="main-heading">Rushikesh Nage</h1>
+      <span class="tag">Developer</span>
+      <span class="tag">Engineer</span>
+      <div class="stats">
+        <span class="stat-module">
+          Project <span class="stat-number">10</span>
+        </span>
+        <span class="stat-module">
+          Experience <span class="stat-number">5</span>
+        </span>
+        <span class="stat-module">
+          Age <span class="stat-number">28</span>
+        </span>
+      </div>
+    </div>
+  </div>
+  
+  <div class="overlay-header"></div>
+  
+  <div class="body">
+    <img src="https://media.licdn.com/dms/image/D5603AQEmkCAo0S-AYA/profile-displayphoto-shrink_200_200/0/1684423234977?e=1721865600&v=beta&t=7D2jyTcmOpH6NMb2NjRywui64bRAAAAvUDj56MzGEcY" class="body-image" />
+    <div class="u-clearfix"></div>
+    <div class="body-info">
+      <p>
+        I design and code beautifully simple things and I love what I do.
+      </p>
+    </div>
+  </div>
+</div>
+</code>
+
 ## My Journey
 
 ![Rushi's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rtrend96&theme=merko)
