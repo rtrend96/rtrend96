@@ -169,7 +169,7 @@
 
       <div class="container">
   <div class="header-container">
-    <img src="https://media.licdn.com/dms/image/C5116AQFNf1PmqGHVPg/profile-displaybackgroundimage-shrink_350_1400/0/1584979299898?e=1721865600&v=beta&t=mVQxXaGg4KXfl3fGubmX6-zLdcFOvG_VDQSm6siiYCU" alt="" class="header-image" />
+    <img src="bg.jpeg" alt="" class="header-image" />
     <div class="header">
       <h1 class="main-heading">Rushikesh Nage</h1>
       <span class="tag">Developer</span>
@@ -191,7 +191,7 @@
   <div class="overlay-header"></div>
 
   <div class="body">
-    <img src="https://media.licdn.com/dms/image/D5603AQEmkCAo0S-AYA/profile-displayphoto-shrink_200_200/0/1684423234977?e=1721865600&v=beta&t=7D2jyTcmOpH6NMb2NjRywui64bRAAAAvUDj56MzGEcY" class="body-image" />
+    <img src="profile.jpeg" class="body-image" />
     <div class="u-clearfix"></div>
     <div class="body-info">
       <p>
