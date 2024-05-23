@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style="width: 100%;">
+<div style="height: 100%;">
   <img src="profile.svg" style="height: 100%;" alt="Click to see the source">
 </div>
 
