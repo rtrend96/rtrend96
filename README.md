@@ -27,3 +27,6 @@ Current lead frontend developer for the Industrial AI team at Foxconn in Wiscons
 
 - [Portfolio](https://rtrend96.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/rushikesh-nage06/)
+- [LeetCode](https://leetcode.com/u/rtrend96/)
+- [CodePen](https://codepen.io/rtrend96)
+- [FrontEnd Mentor](https://www.frontendmentor.io/profile/rtrend96)
