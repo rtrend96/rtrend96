@@ -10,7 +10,6 @@ Current lead frontend developer for the Industrial AI team at Foxconn in Wiscons
 ![Rushi's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rtrend96&theme=merko)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rtrend96)]
-[![GitHub Streak](https://rtrend96.github.io/)]
 
 ## Values
 
